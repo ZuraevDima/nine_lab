@@ -1,0 +1,13 @@
+.four{
+    border: 2px solid black;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border-right: 2px solid #f00;
+    border-radius: 0 50% 50% 0; 
+}
